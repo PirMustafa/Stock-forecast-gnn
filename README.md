@@ -122,5 +122,5 @@ MIT License. See `LICENSE` file for details.
 
 ## Author
 Pir Ghullam Mustafa
-[Medium Blog](https://medium.com/@yourname)  
+[Medium Blog](https://medium.com/@pirghullammustafa12)  
 [GitHub](https://github.com/PirMustafa/Stock-forecast-gnn/tree/master/stock-forecast-gnn)
