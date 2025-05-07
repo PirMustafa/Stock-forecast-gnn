@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+yfinance
+networkx
+scikit-learn
+torch-geometric
+transformers
+scipy
